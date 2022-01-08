@@ -1,2 +1,2 @@
 # odin-recipes
-Hello!
+Hello! Check out my first website!
