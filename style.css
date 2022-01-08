@@ -4,7 +4,7 @@
   text-align: center;
  color:black;
  padding: 8px;
- background-color: 
+ font-style: oblique; 
 }
 #sect1
 {
@@ -18,4 +18,60 @@
 #main
 {
   background-color: blanchedalmond;
+}
+#content
+{
+  color:black;
+  font-style: oblique;
+  padding: 8px;
+  font-size: 20px;
+}
+#pot
+{
+  text-align: center;
+}
+#irish 
+{
+background-color: tan;
+padding: 10px;
+}
+#irish h1, h3
+{
+  font-style: oblique;
+}
+#pasta
+{
+  text-align: center;
+}
+#sauce
+{
+  background-color:silver
+}
+#sauce h1
+{
+  font-style: oblique;
+}
+#hazel
+{
+  text-align: center;
+}
+#macaron
+{
+  background-color:bisque;
+}
+#macaron h1, h3
+{
+  font-style:oblique;
+}
+#oats
+{
+  text-align: center;
+}
+#roll
+{
+  background-color: lightyellow;
+}
+#roll h1
+{
+  font-style: oblique;
 }
