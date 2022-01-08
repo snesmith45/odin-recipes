@@ -3,7 +3,6 @@
 {
   text-align: center;
  color:black;
- padding: 8px;
  font-style: oblique; 
 }
 #sect1
@@ -12,7 +11,7 @@
 }
 #img1
 {
-  height: 600px;
+  height: 550px;
   width: 700px;
 }
 #main
@@ -23,8 +22,11 @@
 {
   color:black;
   font-style: oblique;
-  padding: 8px;
   font-size: 20px;
+}
+#recipes
+{
+  border:white;
 }
 #pot
 {
