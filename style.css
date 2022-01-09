@@ -4,6 +4,7 @@
   text-align: center;
  color:black;
  font-style: oblique; 
+ text-decoration: underline;
 }
 #sect1
 {
@@ -14,9 +15,10 @@
   height: 550px;
   width: 700px;
 }
-#main
+#main 
 {
-  background-color: blanchedalmond;
+  background-color: rgb(222, 236, 157);
+ 
 }
 #content
 {
